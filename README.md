@@ -4,7 +4,7 @@ glimpse_of_thomas_shelby App is a simple Flutter application that displays an im
 
 ## Screenshot
 
-![glimpse_of_thomas_shelby](shelb.png)
+![glimpse_of_thomas_shelby](/assets/shelb.png)
 
 ## Features
 
@@ -13,22 +13,24 @@ glimpse_of_thomas_shelby App is a simple Flutter application that displays an im
 - Simple and easy to use.
 
 ## Installation
+
   To run Dicey on your device, follow these steps:
 
   1. Clone this repository to your local machine using the following command:
-    
+
    ```bash
    git clone https://github.com/Emissary-Of-Desolation/glimpse_of_thomas_shelby.git
    ```
+
   2. Change into the project directory:
   
     cd glimpse_of_thomas_shelby
-   3. Ensure you have Flutter and Dart installed. If not, refer to the official Flutter 
+
+   3. Ensure you have Flutter and Dart installed. If not, refer to the official Flutter
        documentation or installation instructions.
   
    4. Run the app on your preferred emulator or connected device using the following command:
-    
+
     flutter run
   
-  
-  ### Thank you for using Downloading
+### Thank you for using Downloading
